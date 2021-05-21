@@ -1,0 +1,16 @@
+scipy
+numpy
+matplotlib
+seaborn
+pandas
+jupyterlab
+nilearn
+ipywidgets
+xarray
+myst-nb
+sphinx
+sphinx-panels
+ablog
+sphinx-autobuild
+pydata-sphinx-theme
+MyST-Parser
